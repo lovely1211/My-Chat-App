@@ -21,6 +21,8 @@ Clone the project
 
 Go to the project directory
 
+cd My-Chat-App
+
 Install dependencies
 
 ```bash
@@ -61,4 +63,16 @@ Start the Client
 - [Lovely-Singh](https://github.com/lovely1211)
 - [Shivam Sharma](https://github.com/shivamsharmxa)
 
-  
+# DEMO PICS
+Authentication 
+![Auth page](https://github.com/lovely1211/My-Chat-App/assets/151820018/3bdb7bc1-0e77-4a2e-bbc4-c5b796a24be8)
+
+Profile
+![Profile section](https://github.com/lovely1211/My-Chat-App/assets/151820018/17a7f7fd-b9d9-41d3-891c-5975986bacd8)
+
+
+Chat-Section
+![chat section](https://github.com/lovely1211/My-Chat-App/assets/151820018/aa6e5f09-bf25-4eb0-b22f-b4caa24f4c6f)
+
+Logout
+![logout   groupChat](https://github.com/lovely1211/My-Chat-App/assets/151820018/484abddb-a4a4-44dc-80c0-9715c3a18196)
