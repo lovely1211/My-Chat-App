@@ -12,12 +12,12 @@ require('dotenv').config({ path: '../.env' }); // Load environment variables fro
 
 // JWT Secret Key Configuration
 module.exports = {
-  host: process.env.HOST || '0.0.0.0',
-  port: process.env.PORT || 1337,
+  host: process.env.HOST,
+  port: process.env.PORT,
   url: 'http://167.99.243.1/api',
   admin: {
     auth: {
-      secret: process.env.SECRET_KEY || "lovelySingh12112001"
+      secret: process.env.SECRET_KEY
     }
   }
 };
